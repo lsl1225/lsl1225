@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying in the university.
+- 🌱 I’m currently learning Python, React and more!
+- 🍉 I speak Chinese and English.
+
 <!--
 **lsl1225/lsl1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
