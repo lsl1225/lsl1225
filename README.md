@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying in the university.
-- 🌱 I’m currently learning Python, React and more!
-- 🍉 I speak Chinese and English.
+- 🌱 I’m currently learning some frontend languages like React and more!
+- 🍉 You can chat with me in 中文 and English.
+- 💬 Most used language: C# & Java
 
+#### This page is still under construction.
 <!--
 **lsl1225/lsl1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
